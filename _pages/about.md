@@ -6,7 +6,7 @@ subtitle: <a href='https://www.bi.no'>BI Norwegian Business School</a> · Trondh
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false
 
 news: false
